@@ -1,3 +1,4 @@
+Board, processor, clock speed (MHz), benchmark, result
 Adafruit Circuit Playground Bluefruit , nRF52840 , 64 , 6.0.0-rc1 , average float , 21.6
 Adafruit Circuit Playground Bluefruit , nRF52840 , 64 , 6.0.0-rc1 , average nqueens , 122.6
 Adafruit Metro ESP32-S2 Express Beta , ESP32-S2 , 240 , 6.0.0-rc1 , average float , 24.7
